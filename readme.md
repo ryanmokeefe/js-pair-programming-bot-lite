@@ -1,6 +1,8 @@
 # Pair Programming Bot Lite
 
-Your task will to be to create a pair-programming 'bot' to be your trusty, reliable companion. This bot will ask you 'helpful' questions to help you decide what you should be doing. It will function as your *navigator*, while you will *drive*, or code. This pair-programming is very big on telling its users (programmers) to build tests for the code they have written. We'll cover testing later on in the course, but for now we'll focus on implementing this bot using the concepts of control flow.
+Your task will to be to create a pair-programming 'bot' to be your trusty, reliable companion. This bot will ask you 'helpful' questions to help you decide what you should be doing. It will function as your *navigator*, while you will *drive*, or code. 
+
+This pair-programming bot is very big on telling its users (programmers) to build tests for the code they have written. We'll cover testing later on in the course, but for now we'll focus on implementing this bot using the concepts of control flow.
 
 ## Specifications
 
